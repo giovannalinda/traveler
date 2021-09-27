@@ -14,7 +14,8 @@
     "prettier:check": "prettier -c '**/*.{ts,tsx,json,md}'",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "server": "json-server --watch -p 3333 server.json"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx}": [
@@ -67,6 +68,7 @@
     "husky": "7.0.2",
     "jest": "27.1.1",
     "jest-styled-components": "7.0.5",
+    "json-server": "0.16.3",
     "lint-staged": "11.1.2",
     "prettier": "2.4.0",
     "storybook": "6.3.8",

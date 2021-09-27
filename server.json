@@ -1,0 +1,34 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Florianópolis",
+      "places_count": 98,
+      "image_url": "https://www.cvc.com.br/dicas-de-viagem/wp-content/uploads/2019/11/Topo-floripa.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Blumenau",
+      "places_count": 29,
+      "image_url": "https://www.sesc-sc.com.br/blog/Manager/show_image.php?show_arquivo=institucional&show_campo=institucional_imagem_pq&show_chave=Institucional_id=3574"
+    },
+    {
+      "id": 3,
+      "name": "Bombinhas",
+      "places_count": 43,
+      "image_url": "https://www.segueviagem.com.br/wp-content/uploads/2021/01/Vista-aerea-das-praias-da-Lagoinha-e-Prainha-Bombinhas-Santa-Catarina-shutterstock_1624434856.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Águas Mornas",
+      "places_count": 13,
+      "image_url": "https://hweb-upload.s3-sa-east-1.amazonaws.com/587fc4cec19a4713c4c007d7/af3c29b0b50a4a6aa134f44946ca0ffc.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Imbituba",
+      "places_count": 61,
+      "image_url": "https://blog.clubecandeias.com/wp-content/uploads/2020/03/melhores-praias-para-visitar-em-imbituba-sc.jpg"
+    }
+  ]
+}
