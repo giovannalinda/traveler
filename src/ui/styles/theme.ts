@@ -1,33 +1,43 @@
 export const theme = {
   fonts: {
-    Barlow: {
+    barlow: {
       sizes: {
         normal: 500,
         medium: 600,
         bold: 700,
       },
     },
-    Heebo: {
-      normal: 400,
-      medium: 500,
+    heebo: {
+      sizes: {
+        normal: 400,
+        medium: 500,
+      },
     },
-    Roboto: 400,
+    roboto: {
+      sizes: {
+        normal: 400,
+      },
+    },
   },
   colors: {
-    orange: '#F25D27',
-    green: '#51B853',
+    orange: {
+      400: '#f25d27',
+    },
+    green: {
+      400: '#51b853',
+    },
     white: {
-      50: '#FFFFFF',
-      100: '#F5F8FA',
+      50: '#ffffff',
+      100: '#f5f8fa',
     },
     blue: {
-      50: '#DDE9F0',
-      400: '#115D8C',
+      50: '#dde9f0',
+      400: '#115d8c',
       700: '#123952',
     },
     gray: {
-      50: '#DCE2E6',
-      300: '#A0ACB3',
+      50: '#dce2e6',
+      300: '#a0acb3',
       400: '#617480',
     },
   },

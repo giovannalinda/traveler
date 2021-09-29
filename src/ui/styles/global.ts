@@ -11,18 +11,21 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     background: ${theme.colors.white[100]};
-    font-family: ${theme.fonts.Barlow.sizes.medium};
+    font-family: ${theme.fonts.barlow.sizes.medium};
   }
 
   html {
     font-size: 62.5%;
   }
+
   button {
     cursor: pointer;
   }
+
   a {
     text-decoration: none;
   }
+
   ul {
     list-style: none;
   }
