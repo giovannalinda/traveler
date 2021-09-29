@@ -1,20 +1,20 @@
 export const theme = {
   fonts: {
     barlow: {
-      sizes: {
+      weights: {
         normal: 500,
         medium: 600,
         bold: 700,
       },
     },
     heebo: {
-      sizes: {
+      weights: {
         normal: 400,
         medium: 500,
       },
     },
     roboto: {
-      sizes: {
+      weights: {
         normal: 400,
       },
     },

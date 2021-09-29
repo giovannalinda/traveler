@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     background: ${theme.colors.white[100]};
-    font-family: ${theme.fonts.barlow.sizes.medium};
+    font-family: ${theme.fonts.barlow.weights.medium};
   }
 
   html {
